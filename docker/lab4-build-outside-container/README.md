@@ -26,7 +26,7 @@ https://github.com/Ibrahim-Adel15/Docker-1
 ## Build the Application
 
 ```bash
-mvn clean package
+mvn package
 ```
 
 **Output**
