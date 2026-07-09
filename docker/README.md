@@ -51,3 +51,16 @@ Managing Docker Environment Variables Across Build and Runtime.
 - Verify the application behavior in each scenario.
 
 [Lab 6 - Environment Variables](lab6-environment-variables/)
+
+---
+
+### Lab 7
+
+Docker Volume and Bind Mount with Nginx.
+
+- Create and use a Docker volume to persist Nginx logs.
+- Use a bind mount to serve static content from the host machine.
+- Verify content updates without rebuilding the container.
+- Verify persisted logs.
+
+[Lab 7 - Volumes and Bind Mounts](lab7-volumes-and-bind-mounts/)
