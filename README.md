@@ -16,3 +16,4 @@ This repository contains my hands-on labs and assignments completed during the i
 - Lab 5 - [Multi-Stage Build for Java Spring Boot Application](docker/lab5-multi-stage-build/)
 - Lab 6 - [Managing Docker Environment Variables](docker/lab6-environment-variables/)
 - Lab 7 - [Docker Volume and Bind Mount with Nginx](docker/lab7-volumes-and-bind-mounts/)
+- Lab 8 - [Custom Docker Network for Microservices](docker/lab8-custom-network/)
