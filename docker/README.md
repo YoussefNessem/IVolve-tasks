@@ -64,3 +64,14 @@ Docker Volume and Bind Mount with Nginx.
 - Verify persisted logs.
 
 [Lab 7 - Volumes and Bind Mounts](lab7-volumes-and-bind-mounts/)
+
+---
+
+### Lab 8
+
+Custom Docker Network for Microservices.
+
+- Build frontend and backend Docker images.
+- Create a custom Docker network.
+- Verify communication between containers using Docker DNS.
+- Compare communication over a custom network and the default bridge network.
