@@ -17,3 +17,8 @@ This repository contains my hands-on labs and assignments completed during the i
 - Lab 6 - [Managing Docker Environment Variables](docker/lab6-environment-variables/)
 - Lab 7 - [Docker Volume and Bind Mount with Nginx](docker/lab7-volumes-and-bind-mounts/)
 - Lab 8 - [Custom Docker Network for Microservices](docker/lab8-custom-network/)
+
+### Kubernetes for Container Orchestration
+
+- Lab 10 - [Node Isolation Using Taints in Kubernetes](K8S%20for%20Container%20Orchestration/lab10-node-taints/)
+- Lab 11 - [Namespace Management and Resource Quota Enforcement](K8S%20for%20Container%20Orchestration/lab11-resource-quota/)
