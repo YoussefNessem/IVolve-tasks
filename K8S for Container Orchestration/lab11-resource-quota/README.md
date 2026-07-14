@@ -101,9 +101,6 @@ kubectl run pod3 --image nginx -n ivolve
 Result
 
 ✅ Namespace created successfully.
-
 ✅ ResourceQuota applied successfully.
-
 ✅ Only two pods were allowed in the namespace.
-
 ✅ Creation of the third pod was denied due to the ResourceQuota limit.
