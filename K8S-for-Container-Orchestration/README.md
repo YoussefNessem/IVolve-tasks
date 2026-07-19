@@ -26,3 +26,16 @@ Namespace Management and Resource Quota Enforcement.
 - Test quota enforcement by creating multiple pods.
 
 [Lab 11 - Namespace and Resource Quota](lab11-resource-quota/)
+
+---
+
+### Lab 12
+
+Managing Configuration and Sensitive Data with ConfigMaps and Secrets.
+
+- Store non-sensitive configuration using a ConfigMap.
+- Store sensitive database credentials using a Secret.
+- Use Base64 encoding for secret values.
+- Verify ConfigMap and Secret creation.
+
+[Lab 12 - ConfigMaps and Secrets](lab12-configmaps-and-secrets/)
