@@ -22,3 +22,4 @@ This repository contains my hands-on labs and assignments completed during the i
 
 - Lab 10 - [Node Isolation Using Taints in Kubernetes](K8S-for-Container-Orchestration/lab10-node-taints/)
 - Lab 11 - [Namespace Management and Resource Quota Enforcement](K8S-for-Container-Orchestration/lab11-resource-quota/)
+- Lab 12 - [Managing Configuration and Sensitive Data with ConfigMaps and Secrets](K8S-for-Container-Orchestration/lab12-configmaps-and-secrets/)
