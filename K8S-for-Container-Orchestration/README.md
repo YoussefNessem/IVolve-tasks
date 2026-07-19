@@ -39,3 +39,16 @@ Managing Configuration and Sensitive Data with ConfigMaps and Secrets.
 - Verify ConfigMap and Secret creation.
 
 [Lab 12 - ConfigMaps and Secrets](lab12-configmaps-and-secrets/)
+
+---
+
+### Lab 13
+
+Persistent Storage Setup for Application Logging.
+
+- Create a PersistentVolume using hostPath storage.
+- Create a PersistentVolumeClaim requesting 1Gi of storage.
+- Verify successful binding between the PV and PVC.
+- Configure persistent storage for application logs.
+
+[Lab 13 - Persistent Storage](lab13-persistent-storage/)
